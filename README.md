@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">🎯 Hey, I'm <span style="color:#5bc0be;">Latony</span> — Front-End Wizard 🧙‍♂️</h1>
 
-<!--
-**mehrshad-barati2020/mehrshad-barati2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Creative+Front-End+Developer;React+%2F+Next+%2F+Tailwind+Lover;Design+%2B+Code+%3D+❤️;Open+to+collaboration!+Let's+build+cool+stuff!" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me:
+```js
+const latony = {
+  code: ["JavaScript", "TypeScript", "React", "Next.js", "Tailwind"],
+  design: ["Figma", "UI/UX"],
+  currentlyLearning: "Advanced Design Patterns in React",
+  goal: "To craft delightful experiences & pixel-perfect interfaces",
+  funFact: "I believe CSS is an art 🖌️"
+}
